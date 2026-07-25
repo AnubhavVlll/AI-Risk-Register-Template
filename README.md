@@ -57,9 +57,7 @@ Critical-tier risk is designed to block release until mitigated or explicitly ri
 
 Built by **Anubhav Verma** — AI governance and product strategy practitioner, based in Lucknow, India. This template is part of a broader portfolio applying NIST AI RMF, EU AI Act, and India's DPDP Act to practical, product-team-usable governance artifacts.
 
-[LinkedIn] · [Portfolio] · [Contact]
-
-*Replace the bracketed links above before publishing.*
+[[LinkedIn](https://www.linkedin.com/in/anubhav01verma/)]
 
 ---
 
